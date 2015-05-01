@@ -162,7 +162,7 @@ Availability*.
 
 The Reminders collapsible section lets you specify up to two
 times when event reminder notifications will be sent via email. For example, you
-might like event notifications to be send one day and one hour before your
+might like event notifications to be sent one day and one hour before your
 event. Email is currently the only supported event notification type. To avoid
 confusion, the event time in notification emails is shown in the user's
 time zone, and the time zone is also displayed. Of course, Liferay can only

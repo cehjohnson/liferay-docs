@@ -136,7 +136,7 @@ just include the same JSP over and over with different parameters.
     permission. The portlet URL you create here is an action URL that calls your
     new `deleteEntry()` method in your controller. You supply the `entryId` for
     the current entry, which is the one you want to delete. The `guestbookId`
-    parameter is used so that the correct guestbook is displayed the portlet
+    parameter is used so that the correct guestbook is displayed in the portlet
     after the user has deleted an entry from a guestbook.
 
     The tag used to create the action link is the `<liferay-ui:icon-delete />`

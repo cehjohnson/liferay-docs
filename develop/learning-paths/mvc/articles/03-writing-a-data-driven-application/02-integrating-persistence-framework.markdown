@@ -216,7 +216,6 @@ to jump in and create a service API for guestbook entries.
             entryPersistence.update(entry);
             
             return entry;
-            
         }
 
 Excellent! You've now created a service API for both `Guestbook` and guestbook
